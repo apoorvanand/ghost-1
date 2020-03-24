@@ -26,7 +26,7 @@
     "node": "6"
   },
   "dependencies": {
-    "ghost": "1.4.0"
+    "ghost": "3.12.0"
   },
   "now": {
     "alias": "now-examples-ghost.now.sh",
